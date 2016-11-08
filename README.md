@@ -1,4 +1,4 @@
-# nova-class-bargain-theme
+# nova-class-bargain-theme ![dependencies](https://david-dm.org/abhaytalreja/nova-class-bargain-theme.svg)
 🏖🔭 Telescope Nova package to redesign the app to have a grid/list feature.
 
 ![Grid Screenshot](http://i.imgur.com/omRJ7nF.jpg)
