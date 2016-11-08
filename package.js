@@ -10,12 +10,11 @@ Package.onUse( function(api) {
   api.versionsFrom("METEOR@1.0");
 
   api.use([
-    'fourseven:scss',
-
-    'nova:core',
-    'nova:base-components',
-    'nova:posts',
-    'nova:users',
+    'nova:core@0.27.3-nova',
+    'nova:base-components@0.27.3-nova',
+    'nova:posts@0.27.3-nova',
+    'nova:users@0.27.3-nova',
+    'fourseven:scss@3.9.0'
   ]);
 
   api.addFiles([
