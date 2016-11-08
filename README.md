@@ -1,7 +1,9 @@
 # nova-class-bargain-theme
 🏖🔭 Telescope Nova package to redesign the app to have a grid/list feature.
 
-![Screenshot](http://i.imgur.com/omRJ7nF.jpg)
+![Grid Screenshot](http://i.imgur.com/omRJ7nF.jpg)
+
+![Grid Screenshot](http://i.imgur.com/sNecroq.png)
 
 Want to add this to your Nova instance? Read below:
 
